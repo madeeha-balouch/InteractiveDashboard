@@ -10,6 +10,7 @@ Important Takeaways:
 3. Majority of the people killed bear Palestinian Citizenship.
 4. Majority of the killings happened due to gun firing.
 
+It is important to note that the number of Palestinian martyrs has doubled since the dataset was published. If this indicates anything, it indicates the real terrorists (the Israeli occupation army) who are committing massacres against innocent people in full view of everyone.
 
 Link to the Dataset:
 https://www.kaggle.com/datasets/willianoliveiragibin/fatalities-in-the-israeli-palestinian/data 
